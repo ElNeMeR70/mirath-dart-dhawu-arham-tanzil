@@ -1,0 +1,5 @@
+name: mirath_dart_dhawu_arham_tanzil
+description: "Dhawu Al-Arham Extended Relatives Inheritance Solver (Ahl Al-Tanzil & Ahl Al-Qarabah)"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
